@@ -60,7 +60,7 @@ ui <- fluidPage(
                  h3("Especificaciones Técnicas y Rendimiento"),
                  br(),
                  p("- Pipeline en Galaxy: filtro de calidad de mapeo (MapQ) mínimo de 20"),
-                 p("- Estadística: Sensibilidad - 100% y Especificidad - 99'01% *"),
+                 p("- Estadística: Sensibilidad - 100% y Especificidad - 99.01% *"),
                  p("(*Estadística evaluada en un conjunto de datos de 11 archivos)")
         )
       )  
